@@ -121,7 +121,7 @@ triton-ascend-kernels/
 
 完整实验报告：
 
-[`docs/experiment-report.pdf`](软件学院-曾诚.pdf)
+[`docs/软件学院-曾诚.pdf`](软件学院-曾诚.pdf)
 
 ---
 
